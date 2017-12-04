@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\深度搜索">
+      <UniqueIdentifier>{8b9f183b-0150-46f1-9798-bb376db57c3d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\随笔">
+      <UniqueIdentifier>{e45a7a31-0ced-44a5-b811-1a4d505a16b9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="LCS.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TwoSum.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="3Sum.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PermutationSequence.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="gaStation.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Candy.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SingleNumber.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AddTwoNumbers.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ReverseLinklist.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PartitionList.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="reverseKgroup.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ValidPalindrome.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="strStr.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Myatoi.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestPalindromicSubstr.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RegularExpressionMatch.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LargestRectangle.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="EvaluateRPN.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Permutation.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTree.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTreeLevelorderTraversal.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTreeZigzagorderTraversal.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RecoverBinarySearchTree.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ConstructBTreeFromPIorder.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ConstructBTreeFromIPorder.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="UniqueBSTII.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PermutationsII.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Combinations.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestValidParentheses.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LetterCombinations.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="WordLadder.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="WordLadderII.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="WordLadderII_Graph.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BFS_AL_WordLadderII.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SurroundedRegions.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PalindromePartition.h">
+      <Filter>源文件\深度搜索</Filter>
+    </ClInclude>
+    <ClInclude Include="NQueens.h">
+      <Filter>源文件\深度搜索</Filter>
+    </ClInclude>
+    <ClInclude Include="RestoreIPAddresses.h">
+      <Filter>源文件\深度搜索</Filter>
+    </ClInclude>
+    <ClInclude Include="CombinationSum.h">
+      <Filter>源文件\深度搜索</Filter>
+    </ClInclude>
+    <ClInclude Include="GenerateParentheses.h">
+      <Filter>源文件\深度搜索</Filter>
+    </ClInclude>
+    <ClInclude Include="SudokuSolver.h">
+      <Filter>源文件\深度搜索</Filter>
+    </ClInclude>
+    <ClInclude Include="WordSearch.h">
+      <Filter>源文件\深度搜索</Filter>
+    </ClInclude>
+    <ClInclude Include="ContainerWithMostWater.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="palindromepartitionII.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="InterleavingString.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="deque_test.cpp">
+      <Filter>源文件\随笔</Filter>
+    </ClCompile>
+    <ClCompile Include="equalrange.cpp">
+      <Filter>源文件\随笔</Filter>
+    </ClCompile>
+    <ClCompile Include="unordered_map.cpp">
+      <Filter>源文件\随笔</Filter>
+    </ClCompile>
+    <ClCompile Include="LongestSubstringWithoutRepeatChar.h">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
